@@ -24,8 +24,8 @@ Use Closing Operation
 
  
 ## Program Developed By:
-- **Name:** MUKESH D
-- **Register Number:**  212224040204
+- **Name:** SAMEER SHARIFF M
+- **Register Number:**  212224220085
 
  
 ## Program:
@@ -77,7 +77,7 @@ plt.show()
 <br>
 <br>
 <br>
-<img width="519" height="519" alt="image" src="https://github.com/user-attachments/assets/a940e756-2b87-429d-8b1d-b1ee77ddfb0d" />
+<img width="362" height="378" alt="image" src="https://github.com/user-attachments/assets/a10c7e22-84f9-4b3c-84c3-ce95c161acf7" />
 
 <br>
 <br>
@@ -87,7 +87,7 @@ plt.show()
 <br>
 <br>
 <br>
-<img width="497" height="508" alt="image" src="https://github.com/user-attachments/assets/13fb94b5-3bc5-45d3-b634-98fe59d32922" />
+<img width="355" height="383" alt="image" src="https://github.com/user-attachments/assets/666d6ab1-2085-43ad-8cac-7d25fff44ec5" />
 
 <br>
 <br>
@@ -97,7 +97,7 @@ plt.show()
 <br>
 <br>
 <br>
-<img width="499" height="523" alt="image" src="https://github.com/user-attachments/assets/5da257a2-6be0-4583-a25d-b34f848f9635" />
+<img width="364" height="383" alt="image" src="https://github.com/user-attachments/assets/1a211ac2-8ff9-4544-b94e-f580fdd1723c" />
 
 <br>
 <br>
